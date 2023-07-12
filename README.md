@@ -1,4 +1,4 @@
-#Helios
+<h1>Helios</h1>
 Helios Wearable Haptic Device
 Helios is a wearable haptic device designed to assist visually impaired individuals in sensing, recognizing, and securing objects within their surroundings. This project leverages natural language processing, computer vision, and haptic feedback techniques to create a closed circuit system situated on the user's wrist.
 
