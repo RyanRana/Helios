@@ -3,11 +3,11 @@ Helios Wearable Haptic Device
 Helios is a wearable haptic device designed to assist visually impaired individuals in sensing, recognizing, and securing objects within their surroundings. This project leverages natural language processing, computer vision, and haptic feedback techniques to create a closed circuit system situated on the user's wrist.
 
 Key Features
-Object Sensing: Helios utilizes computer vision algorithms to detect objects in the user's environment.
-Object Recognition: The system employs AI techniques to recognize objects by comparing them against a pre-stored database.
-Localization and Direction: Haptic feedback in the form of buzzers on the user's wrist guides their hand toward the desired object.
-Speech Interaction: The device includes a microphone for capturing user speech, which is processed using speech recognition technology.
-Text-to-Speech Output: Helios converts object information into speech output for the user.
+Object Sensing: Helios utilizes computer vision algorithms to detect objects in the user's environment.<br>
+Object Recognition: The system employs AI techniques to recognize objects by comparing them against a pre-stored database.<br>
+Localization and Direction: Haptic feedback in the form of buzzers on the user's wrist guides their hand toward the desired object.<br>
+Speech Interaction: The device includes a microphone for capturing user speech, which is processed using speech recognition technology.<br>
+Text-to-Speech Output: Helios converts object information into speech output for the user.<br><br>
 Getting Started
 To get started with Helios, follow these steps:
 
